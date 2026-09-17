@@ -239,4 +239,4 @@ This repository serves as the official landing page for Png Optimizer. The softw
 **Get the most recent version of Png Optimizer today!**
 
 ---
-**Last updated:** 2026-09-16 21:59:14 UTC
+**Last updated:** 2026-09-17 00:21:18 UTC
